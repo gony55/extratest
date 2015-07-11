@@ -1,4 +1,6 @@
 song
+test-local2
+test-local
 
 extra-dev1
 
